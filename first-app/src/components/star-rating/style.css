@@ -1,0 +1,11 @@
+.App{
+    align-items: center;
+    /* background-color: #23942f; */
+    }
+    .active {
+      color: #fff700;
+    }
+    
+    .inactive {
+      color: white;
+    }
